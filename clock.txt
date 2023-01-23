@@ -1,0 +1,18 @@
+temp=last-> prev
+last->prev=null
+temp->next=null
+last->next=src
+src->prev=last
+last=src
+temp=last
+
+
+temp=40
+last=50
+src=50
+
+p=q
+printf("Enter the no of rotations")
+scanf("%d",&num)
+last=traverseLasnode(p)
+q=clock(p,last,num)

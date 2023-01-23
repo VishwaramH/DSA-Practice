@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586938113 source:c:\users\vichu\desktop\practice\size\main.c
+	<stdio.h>
+	<stdlib.h>
+

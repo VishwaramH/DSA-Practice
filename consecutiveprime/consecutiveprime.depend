@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590519617 source:c:\users\vichu\desktop\practice\consecutiveprime\main.c
+	<stdio.h>
+	<math.h>
+
